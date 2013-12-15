@@ -1,0 +1,501 @@
+This period , witnessing a Hindu religious and intellectual resurgence , is known among its admirers as the " Golden Age of India " .
+The Justice Party which had a moribund existence under E.V.Ramaswamy .
+While the invention of the term ' bug ' is often but erroneously attributed to Grace Hopper , a future rear admiral in the U.S.Navy , who supposedly logged the " bug " on September 9 , 1945 , most other accounts conflict at least with these details .
+The Elgin Road residence of Subhash Chandra Bose in Calcutta was the place from where he escaped the British to reach Germany during the Second World War .
+He was the co-founder of the Indian National Army and the Head of State of the Arzi Hukumate Azad Hind , formed to counter and combat the British Raj in India .
+Renamed Netaji by poet laureate Rabindranath Tagore , he is regarded by many as perhaps the most prominent and influential freedom fighter in Indian history and is venerated in many Bengali households even today .
+Muslims were also involved in the nationalist movement , most notably Fazl Huq who from Calcutta in the 1930s attempted to organise a non-communal peasant party to agitiate against the British and the wealthy Indian landowning class .
+The fact that many of the Hindus in this latter group were linked to the local Congress organisation and dominated the mainstream nationalist movement in Bengal from Calcutta led to attempts to thwart Huq's activities and fed into the tragic decline in communal relations that savaged Calcutta in 1946 and 1947 .
+The partition of India also created intense violence and a shift in demographics - large numbers of Muslims left for East Pakistan , while hundreds of thousands of Hindus would flee into the city .
+Kolkata had received millions of refugees from what became East Pakistan without receiving substantial assistance from the central government .
+Over the 1960s and 1970s , severe power shortages , strikes and a violent Marxist-Maoist movement — the Naxalites — damaged much of the city's infrastructure , leading to an economic stagnation .
+In 1971 , war between India and Pakistan led to the mass influx of thousands of refugees from what became Bangladesh into Kolkata resulting in a massive strain on its infrastructure .
+In the mid-1980s , Mumbai overtook Kolkata as India's most populous city .
+Kolkata has been a strong base of Indian communism as West Bengal has been ruled by the Communist Party of India dominated Left Front for nearly three decades — the world's longest-running democratically-elected communist government .
+Kolkata became plagued by power outages , labor unrest , disappearing industry , and violence from the Naxalite movement .
+In 1985 Rajiv Gandhi referred to Kolkata as a " dying city " because of the social and political traumas .
+The city's economic recovery gathered momentum after economic reforms in India introduced by the central government in the mid-1990s .
+Since 2000 , Information Technology services revitalized the city's stagnant economy .
+The city has also experienced a growth in the manufacturing sector .
+Following similar moves elsewhere in the country , the state government changed the city's official name from Calcutta to Kolkata in 2001 ; this act was seen largely as a political ploy .
+A Mezzotint engraving of Fort William , Calcutta , which formed the Bengal Presidency in British India 1735 .
+Provinces of India , earlier Presidencies of British India , still earlier , Presidency towns , and collectively British India , were the administrative units of the territories of India under the tenancy or the sovereignty of either the English East India Company or the British Crown between 1612 and 1947 .
+British India is divided into three periods .
+From the early 17th century to the middle of the 18th century , the East India Company traded in Bengal on the sufferance of the native powers .
+Its rivals were the merchant trading companies of Holland and France .
+In the next hundred years , referred to as Company rule in India , the Company acquired paramountcy , but increasingly shared its sovereignty with the Crown , gradually losing its mercantile privileges .
+Following the Mutiny of 1857 , the Company's remaining powers were transferred to the Crown initiating the direct rule by the British Empire .
+The term " British India " has also been used secondarily as a shortened form for " the British people in the British Empire in India . "
+The earliest known tool for use in computation was the abacus , and it was thought to have been invented in Babylon circa 2400 BCE .
+Its original style of usage was by lines drawn in sand with pebbles .
+This was the first known computer and most advanced system - preceding Greek methods by 2,000 years .
+Abaci of a more modern design are still used as calculation tools today .
+The Antikythera mechanism is believed to be the earliest known mechanical analog computer .
+It was designed to calculate astronomical positions .
+It was discovered in 1901 in the Antikythera wreck off the Greek island of Antikythera , between Kythera and Crete , and has been dated to circa 100 BC .
+Technological artifacts of similar complexity did not reappear until the 14th century , when mechanical astronomical clocks appeared in Europe .
+In the 3rd century CE the South Pointing Chariot was invented in ancient China .
+It was the first known geared mechanism to use a differential gear , which was later used in analog computers .
+The Chinese also invented a more sophisticated abacus from around the 2nd century BCE , known as the Chinese abacus .
+Mechanical analog computing devices appeared again a thousand years later in the medieval Islamic world .
+Examples of devices from this period include the equatorium by Arzachel , the mechanical geared astrolabe by Abū Rayhān al-Bīrūnī , and the torquetum by Jabir ibn Aflah .
+Muslim engineers built a number of Automata , including some musical automata that could be ' programmed ' to play different musical patterns .
+These devices were developed by the Banū Mūsā brothers and Al-Jazari Muslim mathematicians also made important advances in cryptography , such as the development of cryptanalysis and frequency analysis by Alkindus .
+When John Napier discovered logarithms for computational purposes in the early 17th century , there followed a period of considerable progress by inventors and scientists in making calculating tools .
+In 1623 Wilhelm Schickard designed a calculating machine , but abandoned the project , when the prototype he had started building was destroyed by a fire in 1624 .
+Around 1640 , Blaise Pascal , a leading French mathematician , constructed the first mechanical adding device based on a design described by Greek mathematician Hero of Alexandria .
+Then in 1672 Gottfried Wilhelm Leibniz invented the Stepped Reckoner which he completed in 1694 .
+None of the early computational devices were really computers in the modern sense , and it took considerable advancement in mathematics and theory before the first modern computers could be designed .
+In the 7th century , Indian mathematician Brahmagupta gave the first explanation of the Hindu-Arabic numeral system and the use of zero as both a placeholder and a decimal digit .
+Approximately around the year 825 , Persian mathematician Al-Khwarizmi wrote a book , On the Calculation with Hindu Numerals , that was principally responsible for the diffusion of the Indian system of numeration in the Middle East and then Europe .
+Around the 12th century , there was translation of this book written into Latin: Algoritmi de numero Indorum .
+These books presented newer concepts to perform a series of steps in order to accomplish a task such as the systematic application of arithmetic to algebra .
+By derivation from his name , we have the term algorithm .
+Around the 3rd century BC , Indian mathematician Pingala discovered the binary numeral system .
+In this system , still used today in all modern computers , a sequence of ones and zeros can represent any number .
+In 1703 , Gottfried Leibnitz developed logic in a formal , mathematical sense with his writings on the binary numeral system .
+In his system , the ones and zeros also represent true and false values or on and off states .
+But it took more than a century before George Boole published his Boolean algebra in 1854 with a complete system that allowed computational processes to be mathematically modeled .
+By this time , the first mechanical devices driven by a binary pattern had been invented .
+The industrial revolution had driven forward the mechanization of many tasks , and this included weaving .
+Punched cards controlled Joseph Marie Jacquard's loom in 1801 , where a hole punched in the card indicated a binary one and an unpunched spot indicated a binary zero .
+Jacquard's loom was far from being a computer , but it did illustrate that machines could be driven by binary systems .
+Before the 1920s , computers were human clerks that performed computations .
+They were usually under the lead of a physicist .
+Many thousands of computers were employed in commerce , government , and research establishments .
+Most of these computers were women , and they were known to have a degree in calculus .
+Some performed astronomical calculations for calendars .
+After the 1920s , the expression computing machine referred to any machine that performed the work of a human computer , especially those in accordance with effective methods of the Church-Turing thesis .
+The thesis states that a mathematical method is effective if it could be set out as a list of instructions able to be followed by a human clerk with paper and pencil , for as long as necessary , and without ingenuity or insight .
+Machines that computed with continuous values became known as the analog kind .
+They used machinery that represented continuous numeric quantities , like the angle of a shaft rotation or difference in electrical potential .
+Digital machinery , in contrast to analog , were able to render a state of a numeric value and store each individual digit .
+Digital machinery used difference engines or relays before the invention of faster memory devices .
+The phrase computing machine gradually gave away , after the late 1940s , to just computer as the onset of electronic digital machinery became common .
+These computers were able to perform the calculations that were performed by the previous human clerks .
+Since the values stored by digital machines were not bound to physical properties like analog devices , a logical computer , based on digital equipment , was able to do anything that could be described " purely mechanical . " The theoretical Turing Machine , created by Alan Turing , is a hypothetical device theorized in order to study the properties of such hardware .
+Konrad Zuse was a German engineer and computer pioneer .
+His greatest achievement was the world's first functional program-controlled Turing-complete computer , the Z3 , which became operational in May 1941 .
+Much of his early work was financed by his family and commerce , and he received little support from the Nazi-German Government .
+Zuse's S2 computing machine is considered to be the first process-controlled computer .
+In 1946 he designed the first high-level programming language , Plankalkül .
+Zuse founded one of the earliest computer businesses on the 1st of April 1941 .
+This company built the Z4 , which became the world's first commercial computer .
+Due to World War II Zuse's work went largely unnoticed in the UK and the US .
+Possibly his first documented influence on a US company was IBM's option on his patents in 1946 .
+In the late 1960s , Zuse suggested the concept of a Calculating Space .
+There is a replica of the Z3 , as well as the Z4 , in the Deutsches Museum in Munich .
+The Deutsches Technikmuseum Berlin in Berlin has an exhibition devoted to Zuse , displaying twelve of his machines , including a replica of the Z1 , some original documents , including the specifications of Plankalkül , and several of Zuse's paintings .
+Zuse Z1 replica in the German Museum of Technology in BerlinBorn in Berlin , Germany in 1910 , the family moved to Braunsberg , East Prussia in 1912 , where his father was a postal clerk .
+Zuse attended the Collegium Hosianum in Braunsberg .
+In 1923 the family moved to Hoyerswerda where he passed his Abitur in 1928 .
+He enrolled in the Technische Hochschule Berlin-Charlottenburg and explored both engineering and architecture , but found them to be boring .
+Zuse then pursued civil engineering graduating in 1935 .
+For a time he worked for the Ford motor company , using his considerable artistic skills in the design of advertisements .
+He started work as a design engineer at the Henschel aircraft factory in Berlin-Schönefeld .
+This required the performance of many routine calculations by hand , which he found mind-numbingly boring , leading him to dream of performing calculations by machine .
+Working in his parents ' apartment in 1936 , his first attempt , called the Z1 , was a floating point binary mechanical calculator with limited programmability , reading instructions from a perforated 35 mm film .
+In 1937 Zuse submitted two patents that anticipated a von Neumann architecture .
+He finished the Z1 in 1938 .
+The Z1 contained some 30,000 metal parts and never worked well , due to insufficient mechanical precision .
+The Z1 and its original blueprints were destroyed during WWII .
+Between 1987 and 1989 , Zuse recreated the Z1 , suffering a heart-attack midway through the project .
+It cost 800,000 DM , and required four individuals to assemble it .
+Funding for this retrocomputing project was provided by Siemens and a consortium of five companies .
+The mathematical foundations of modern computer science began to be laid by Kurt Gödel with his incompleteness theorem .
+In this theorem , he showed that there were limits to what could be proved and disproved within a formal system .
+This led to work by Gödel and others to define and describe these formal systems , including concepts such as mu-recursive functions and lambda-definable functions .
+1936 was a key year for computer science .
+Alan Turing and Alonzo Church independently , and also together , introduced the formalization of an algorithm , with limits on what can be computed , and a " purely mechanical " model for computing .
+These topics are covered by what is now called the Church–Turing thesis , a hypothesis about the nature of mechanical calculation devices , such as electronic computers .
+The thesis claims that any calculation that is possible can be performed by an algorithm running on a computer , provided that sufficient time and storage space are available .
+Turing also included with the thesis a description of the Turing machine .
+A Turing machine has an infinitely long tape and a read/write head that can move along the tape , changing the values along the way .
+Clearly such a machine could never be built , but nonetheless , the model can simulate the computation of any algorithm which can be performed on a modern computer .
+Turing is so important to computer science that his name is also featured on the Turing Award and the Turing test .
+He contributed greatly to British code-breaking successes in the Second World War , and continued to design computers and software through the 1940s , but committed suicide in 1954 .
+At a symposium on large-scale digital machinery in Cambridge , Turing said , " We are trying to build a machine to do all kinds of different things simply by programming rather than by the addition of extra apparatus " .
+In 1948 , the first practical computer that could run stored programs , based on the Turing machine model , had been built - the Manchester Baby .
+In 1950 , Britain's National Physical Laboratory completed Pilot ACE , a small scale programmable computer , based on Turing's philosophy .
+Up to and during the 1930s , electrical engineers were able to build electronic circuits to solve mathematical and logic problems , but most did so in an ad hoc manner , lacking any theoretical rigor .
+This changed with Claude Elwood Shannon's publication of his 1937 master's thesis , A Symbolic Analysis of Relay and Switching Circuits .
+While taking an undergraduate philosophy class , Shannon had been exposed to Boole's work , and recognized that it could be used to arrange electromechanical relays to solve logic problems .
+This concept , of utilizing the properties of electrical switches to do logic , is the basic concept that underlies all electronic digital computers , and his thesis became the foundation of practical digital circuit design when it became widely known among the electrical engineering community during and after World War II .
+Shannon went on to found the field of information theory with his 1948 paper titled A Mathematical Theory of Communication , which applied probability theory to the problem of how to best encode the information a sender wants to transmit .
+This work is one of the theoretical foundations for many areas of study , including data compression and cryptography .
+From experiments with anti-aircraft systems that interpreted radar images to detect enemy planes , Norbert Wiener coined the term cybernetics from the Greek word for " steersman . " He published " Cybernetics " in 1948 , which influenced artificial intelligence .
+Wiener also compared computation , computing machinery , memory devices , and other cognitive similarities with his analysis of brain waves .
+The first actual computer bug was a moth .
+It was stuck in between the relays on the Harvard Mark II .
+According to these accounts , the actual date was September 9 , 1947 when operators filed this incident — along with the insect and the notation " First actual case of bug being found " .
+The history of India begins with evidence of human activity of Homo sapiens as long as 75,000 years ago , or with earlier hominids including Homo erectus from about 500,000 years ago .
+The Indus Valley Civilization , which spread and flourished in the northwestern part of the Indian subcontinent from c .
+3300 to 1300 BCE , was the first major civilization in India .
+A sophisticated and technologically advanced urban culture developed in the Mature Harappan period , from 2600 to 1900 BCE .
+This Bronze Age civilization collapsed before the end of the second millennium BCE and was followed by the Iron Age Vedic Civilization , which extended over much of the Indo-Gangetic plain and which witnessed the rise of major polities known as the Mahajanapadas .
+In one of these kingdoms , Magadha , Mahavira and Gautama Buddha were born in the 6th or 5th century BCE and propagated their śramanic philosophies .
+Almost all of the subcontinent was conquered by the Maurya Empire during the 4th and 3rd centuries BCE .
+It subsequently became fragmented , with various parts ruled by numerous Middle kingdoms for the next 1,500 years .
+This is known as the classical period of Indian history , during which India has sometimes been estimated to have had the largest economy of the ancient and medieval world , controlling between one third and one fourth of the world's wealth up to the 18th century .
+Much of northern and central India was once again united in the 4th century CE , and remained so for two centuries thereafter , under the Gupta Empire .
+During the same time , and for several centuries afterwards , southern India , under the rule of the Chalukyas , Cholas , Pallavas , and Pandyas , experienced its own golden age .
+During this period , aspects of Indian civilization , administration , culture , and religion spread to much of Asia .
+The southern state of Kerala had maritime business links with the Roman Empire from around 77 CE .
+Islam was introduced in Kerala through this route by Muslim traders .
+Muslim rule in the subcontinent began in 712 CE when the Arab general Muhammad bin Qasim conquered Sindh and Multan in southern Punjab in modern day Pakistan , setting the stage for several successive invasions from Central Asia between the 10th and 15th centuries CE , leading to the formation of Muslim empires in the Indian subcontinent such as the Delhi Sultanate and the Mughal Empire .
+Mughal rule came from Central Asia to cover most of the northern parts of the subcontinent .
+Mughal rulers introduced Central Asian art and architecture to India .
+In addition to the Mughals and various Rajput kingdoms , several independent Hindu states , such as the Vijayanagara Empire , the Maratha Empire , and the Ahom Kingdom , flourished contemporaneously in southern , western , and northeastern India respectively .
+The Mughal Empire suffered a gradual decline in the early 18th century , which provided opportunities for the Afghans , Balochis , Sikhs , and Marathas to exercise control over large areas in the northwest of the subcontinent until the British East India Company gained ascendancy over South Asia .
+Beginning in the mid-18th century and over the next century , India was gradually annexed by the British East India Company .
+Dissatisfaction with Company rule led to the Indian Rebellion of 1857 , after which India was directly administered by the British Crown and witnessed a period of both rapid development of infrastructure and economic decline .
+During the first half of the 20th century , a nationwide struggle for independence was launched by the Indian National Congress and later joined by the Muslim League .
+The subcontinent gained independence from the United Kingdom in 1947 , after being partitioned into the dominions of India and Pakistan .
+Isolated remains of Homo erectus in Hathnora in the Narmada Valley in central India indicate that India might have been inhabited since at least the Middle Pleistocene era , somewhere between 500,000 and 200,000 years ago .
+Recent finds in Tamil Nadu indicate the presence of the first anatomically modern humans in the area .
+Tools crafted by proto-humans that have been dated back two million years have been discovered in the northwestern part of the subcontinent .
+The ancient history of the region includes some of South Asia's oldest settlements and some of its major civilizations .
+The earliest archaeological site in the subcontinent is the palaeolithic hominid site in the Soan River valley .
+Soanian sites are found in the Sivalik region across what are now India , Pakistan , and Nepal .
+The Mesolithic period in the Indian subcontinent was followed by the Neolithic period , when more extensive settlement of the subcontinent occurred after the end of the last Ice Age approximately 12,000 years ago .
+The first confirmed semipermanent settlements appeared 9,000 years ago in the Bhimbetka rock shelters in modern Madhya Pradesh , India .
+Early Neolithic culture in South Asia is represented by the Mehrgarh findings (7000 BCE onwards) in present-day Balochistan , Pakistan .
+Traces of a Neolithic culture have been alleged to be submerged in the Gulf of Khambat in India , radiocarbon dated to 7500 BCE .
+However , the one dredged piece of wood in question was found in an area of strong ocean currents .
+Neolithic agriculture cultures sprang up in the Indus Valley region around 5000 BCE , in the lower Gangetic valley around 3000 BCE , and in later South India , spreading southwards and also northwards into Malwa around 1800 BCE .
+The first urban civilization of the region began with the Indus Valley Civilization .
+The Bronze Age in the Indian subcontinent began around 3300 BCE with the early Indus Valley Civilization .
+It was centered on the Indus River and its tributaries which extended into the Ghaggar-Hakra River valley , the Ganges-Yamuna Doab , Gujarat , and southeastern Afghanistan .
+The civilization is primarily located in modern-day India and Pakistan .
+Historically part of Ancient India , it is one of the world's earliest urban civilizations , along with Mesopotamia and Ancient Egypt .
+Inhabitants of the ancient Indus river valley , the Harappans , developed new techniques in metallurgy and handicraft , and produced copper , bronze , lead , and tin .
+The Mature Indus civilization flourished from about 2600 to 1900 BCE , marking the beginning of the urban civilization on the subcontinent .
+The civilization included urban centers such as Dholavira , Kalibangan , Rupar , Rakhigarhi , and Lothal in modern-day India , and Harappa , Ganeriwala , and Mohenjo-daro in modern-day Pakistan .
+The civilization is noted for its cities built of brick , roadside drainage system , and multistoried houses .
+The Vedic period is characterized by Indo-Aryan culture associated with the texts of Vedas , sacred to Hindus , which were orally composed in Vedic Sanskrit .
+The Vedas are some of the oldest extant texts , next to those of Egypt and Mesopotamia .
+The Vedic period lasted from about 1500 to 500 BCE , laying the foundations of Hinduism and other cultural aspects of early Indian society .
+The Aryas established Vedic civilization all over north India , particularly in the Gangetic Plain .
+This period succeeded the prehistoric Late Harappan , during which immigrations of Indo-Aryan-speaking tribes overlaid the existing civilizations of local people whom they called Dasyus .
+The swastika is a major element of Hindu iconography .
+Early Vedic society consisted of largely pastoral groups , with late Harappan urbanization having been abandoned .
+After the time of the Rigveda , Aryan society became increasingly agricultural and was socially organized around the four varnas , or social classes .
+In addition to the Vedas , the principal texts of Hinduism , the core themes of the Sanskrit epics Ramayana and Mahabharata are said to have their ultimate origins during this period .
+The early Indo-Aryan presence probably corresponds , in part , to the Ochre Coloured Pottery culture in archaeological contexts .
+The Kuru kingdom corresponds to the Black and Red Ware and Painted Grey Ware cultures and to the beginning of the Iron Age in northwestern India , around 1000 BCE , as well as with the composition of the Atharvaveda , the first Indian text to mention iron , as śyāma ayas , literally " black metal . " The Painted Grey Ware culture spanned much of northern India from about 1100 to 600 BCE .
+The Vedic Period also established republics such as Vaishali , which existed as early as the 6th century BCE and persisted in some areas until the 4th century CE .
+The later part of this period corresponds with an increasing movement away from the previous tribal system towards the establishment of kingdoms , called mahajanapadas .
+In the later Vedic Age , a number of small kingdoms or city states had covered the subcontinent , many mentioned in Vedic , early Buddhist and Jaina literature as far back as 1000 BCE .
+By 500 BCE , sixteen monarchies and " republics " known as the Mahajanapadas — Kasi , Kosala , Anga , Magadha , Vajji , Malla , Chedi , Vatsa , Kuru , Panchala , Matsya , Surasena , Assaka , Avanti , Gandhara , and Kamboja — stretched across the Indo-Gangetic Plain from modern-day Afghanistan to Bengal and Maharastra .
+This period saw the second major rise of urbanism in India after the Indus Valley Civilization .
+Many smaller clans mentioned within early literature seem to have been present across the rest of the subcontinent .
+Some of these kings were hereditary ; other states elected their rulers .
+The educated speech at that time was Sanskrit , while the languages of the general population of northern India are referred to as Prakrits .
+Many of the sixteen kingdoms had coalesced to four major ones by 500/400 BCE , by the time of Siddhartha Gautama .
+These four were Vatsa , Avanti , Kosala , and Magadha .
+Hindu rituals at that time were complicated and conducted by the priestly class .
+It is thought that the Upanishads , late Vedic texts dealing mainly with philosophy , were composed in the later Vedic Age and early in this period of the Mahajanapadas .
+The Upanishads had a substantial effect on Indian philosophy and were contemporary with the development of Buddhism and Jainism , indicating a golden age of thought in this period .
+It is believed that circa 537 BCE , that Siddhartha Gautama attained the state of " enlightenment " and became known as the " Buddha " - the enlightened one .
+Around the same time , Mahavira propagated a similar theology that was to later become Jainism .
+However , Jain orthodoxy believes it predates all known time .
+The Vedas are believed to have documented a few Jain tirthankars and an ascetic order similar to the sramana movement .
+The Buddha's teachings and Jainism had doctrines inclined toward asceticism , and they were preached in Prakrit , which helped them gain acceptance amongst the masses .
+They have profoundly influenced practices that Hinduism and Indian spiritual orders are associated with , including vegetarianism , prohibition of animal slaughter and ahimsa .
+While the geographic impact of Jainism was limited to India , Buddhist nuns and monks eventually spread the teachings of Buddha to Central Asia , East Asia , Tibet , Sri Lanka and Southeast Asia .
+Much of the northwestern subcontinent came under the rule of the Persian Achaemenid Empire in c .
+520 BCE , during the reign of Darius the Great , and remained so for two centuries .
+In 326 BCE , Alexander the Great conquered Asia Minor and the Achaemenid Empire , reaching the northwest frontiers of the Indian subcontinent .
+There he defeated King Porus in the Battle of the Hydaspes and conquered much of the Punjab .
+Alexander's march east put him in confrontation with the Nanda Empire of Magadha and the Gangaridai Empire of Bengal .
+His army , exhausted and frightened by the prospect of facing larger Indian armies at the Ganges River , mutinied at the Hyphasis and refused to march further East .
+Alexander , after the meeting with his officer , Coenus , was convinced that it was better to return .
+The Persian and Greek invasions had important repercussions on Indian civilization .
+The political systems of the Persians were to influence future forms of governance on the subcontinent , including the administration of the Mauryan dynasty .
+In addition , the region of Gandhara , or present-day eastern Afghanistan and northwest Pakistan , became a melting pot of Indian , Persian , Central Asian , and Greek cultures and gave rise to a hybrid culture , Greco-Buddhism , which lasted until the 5th century CE and influenced the artistic development of Mahayana Buddhism .
+The Maurya Empire , ruled by the Mauryan dynasty , was a geographically extensive and powerful political and military empire in ancient India .
+The empire was established by Chandragupta Maurya in Magadha what is now Bihar and it further flourished under Ashoka the Great .
+At its greatest extent , it stretched to the north to the natural boundaries of the Himalayas and to the east into what is now Assam .
+To the west , it reached beyond modern Pakistan , annexing Balochistan and much of what is now Afghanistan , including the modern Herat and Kandahar provinces .
+The empire was expanded into India's central and southern regions by the emperors Chandragupta and Bindusara , but it excluded extensive unexplored tribal and forested regions near Kalinga which were subsequently taken by Ashoka .
+Ashoka propagated Buddhism and established many Buddhist monuments .
+Chandragupta's minister Chanakya wrote the Arthashastra , one of the greatest treatises on economics , politics , foreign affairs , administration , military arts , war , and religion produced in Asia .
+Archaeologically , the period of Mauryan rule in South Asia falls into the era of Northern Black Polished Ware .
+The Arthashastra and the Edicts of Ashoka are primary written records of the Mauryan times .
+The Lion Capital of Asoka at Sarnath , is the national emblem of India .
+Prior to Indian independence Tamil Nadu was under British colonial rule as part of the Madras Presidency .
+The main party in Tamil Nadu at that time was the Congress Party .
+Regional parties have dominated state politics since 1916 .
+One of the earliest regional parties , the South Indian Welfare Association , a forerunner to Dravidian parties in Tamil Nadu , was started in 1916 .
+The party was called after its English organ , Justice Party , by it opponents .
+Later , South Indian Liberal Federation was adopted as its official name .
+The reason for victory of the Justice Party in elections was the non-participation of the Congress Party , demanding complete independence of India .
+Freedom movement saw great leaders like K. Kamaraj , Subramanya Bharathi , Subramania Siva , V O Chidhamdaranar , Thirupur Kumaran , Rajagopalachariar , L. Sriramulu Naidu , and Sathyamurthi. Periyar E. V. Ramasamy popularly known as Periyar , believed in agitational politics and took the Justice Party away from its original path .
+He renamed the party Dravidar Kazhagam in 1944 .
+DK was a non-political party which demanded the establishment of an independent state called Dravida Nadu .
+However , due to the differences between its two leaders EVR and C.N. Annadurai , the party was split .
+Annadurai left the party to form the Dravida Munnetra Kazhagam .
+The DMK decided to enter politics in 1956 .
+In the 19th century , western scholars discovered that the Dravidian languages dominating South India formed a different linguistic group than the Indo-Aryan languages predominant in North India .
+They also classified Indians into distinct Aryan and Dravidian races .
+It was proposed that the generally darker-skinned Dravidians constituted a distinct race .
+This concept has affected thinking in India about racial and regional differences and had an impact on aspects of Tamil nationalism , which has appropriated the claim that Dravidians are the earliest inhabitants of India , and the Aryan population were oppressive interlopers from whom Dravidians should liberate themselves .
+Re-organisation of Indian states according to linguistic and ethnic basis has moderated Tamil nationalism , especially the demand for separation from the Indian Union .
+The Anti-Hindi agitations in mid-1960s made the DMK more popular and a more powerful political force in the state .
+The DMK routed the Congress Party in the 1967 elections and took control of the state government , ending Congress ' stronghold in Tamil Nadu .
+C.N. Annadurai became the DMK's first Chief Minister .
+Muthuvel Karunanidhi took over as Chief Minister and party leader after Annadurai's death in 1969 .
+Karunanidhi's leadership was soon challenged by M.G.Ramachandran , popularly known as MGR .
+In 1972 , he split from DMK and formed the Anna Dravida Munnetra Kazhagam and later renamed the party as All India Anna Dravid Munnetra Kazhagam .
+He was the Chief Minister of the state from 1977 until his death in 1987 .
+After the death of MGR AIADMK was defeated in 1989 assembly polls because of the Split of the party into two factions headed by Janaki and Jayalalithaa .
+Later on J .
+Jayalalithaa took control of the party .
+She was elected as the General Secretary of the unified AIADMK .
+There have been several splits in both the DMK and the AIADMK , but since 1967 one of those two parties has held power in the state .
+Tamil Nadu is the one of the most literate states in India .
+Tamil Nadu has performed reasonably well in terms of literacy growth during the decade 2001–2011 .
+The state's literacy rate increased from 73.47% in 2001 to 80.3% in 2011 which is above the national average .
+A survey conducted by the Industry body Assocham ranks Tamil Nadu top among Indian states with about 100% Gross Enrollment Ratio in primary and upper primary education .
+One of the basic limitations for improvement in education in the state is the rate of absence of teachers in public schools , which at 21.4% is significant .
+The analysis of primary school education in the state by Pratham shows a low drop-off rate but poor quality of state education compared to other states .
+College of Engineering , Anna University , the oldest engineering school of south India
+Tamil Nadu has 37 universities , 454 engineering colleges .
+and 566 arts and science colleges , 34335 elementary schools , 5167 high schools , 5054 higher secondary schools and 5000 hospitals .
+Some of the notable educational institutes present in Tamil Nadu are University of Madras , IIT Madras , College of Engineering , Guindy , PSG College of Technology , NIT Tiruchi , Madras Christian College , Christian Medical College , Vellore Institute of Technology , Thiagarajar College of Engineering , Bharathidasan Institute of Management , Madras Medical College , Loyola College and Tamil Nadu Agricultural University , Madurai Medical College .
+The Indian Institute of Management is scheduled to open in Trichy by 2009–2010 .
+Tamil Nadu produces the highest number of engineering graduates in India every year .
+Tamil Nadu has a transportation system that connects all parts of the state .
+Tamil Nadu is served by an extensive road network , providing links between urban centers , agricultural market-places and rural areas .
+There are 24 national highways in the state , covering a total distance of 2,002 km .
+The state is also a terminus for the Golden Quadrilateral project .
+The state has a total road length of 167,000 km , of which 60,628 km are maintained by Highways Department .
+This is nearly 2.5 times higher than the density of all-India road network .
+Tamil Nadu has a well-developed rail network as part of Southern Railway .
+Headquartered at Chennai , the Southern Railway network extends over a large area of India's Southern Peninsula , covering the states of Tamil Nadu , Kerala , Puducherry , a small portion of Karnataka and a small portion of Andhra Pradesh .
+Tamil Nadu has a total railway track length of 5,952 km and there are 532 railway stations in the state .
+The system connects it with most major cities in India .
+Main rail junctions in the state include Chennai,Madurai, Coimbatore , Tiruchirapalli and Erode .
+Chennai has a well-established suburban railway network and is in the process of developing a metro .
+Tamil Nadu has a major international airport , Chennai International Airport , that is connected with 19 countries with more than 169 direct flights every week .
+This is the third largest airport in India after Mumbai and Delhi and has a passenger growth of 18% .
+Other international airports present in the state are Tiruchirapalli International Airport , Coimbatore International Airport .
+The Madurai Airport , Salem Airport and Tuticorin Airport are domestic airports which connect their respective cities to other parts of the country .
+Increased industrial activity has given rise to an increase in passenger traffic as well as freight movement which has been growing at over 18 per cent per year .
+Tamil Nadu has three major seaports at Chennai , Ennore and Tuticorin , as well as one intermediate port , at Nagapattinam .
+Chennai Port is an artificial harbour situated on the Coromandel Coast in South-East India and it is the second principal port in the country for handling containers .
+Ennore Port handles all the coal and ore traffic in Tamil Nadu .
+The volume of cargo in the ports grew by 13 per cent during 2005 .
+As of 2005 , Tamil Nadu is one of the few Indian states with surplus Electricity generation capacity , enabling the electrical authority to sell it to neighbouring states of Andra Pradesh & Karnataka .
+The Kalpakkam Nuclear Power Plant , Ennore Thermal Plant , Neyveli Lignite Power Plant , many hydroelectric plants including Mettur and the Narimanam Natural Gas Plants are major sources of Tamil Nadu's electricity .
+It is presently adding the Koodankulam Nuclear Power Plant to its energy grid , which on completion would be the largest atomic power plant in the country , in terms of capacity .
+The total installed capacity for electricity in the State is 8,249 MW .
+The installed capacity of State Sector is 5,288 MW , and that of Private Sector is 1,058 MW .
+Apart from this , 1,903 MW is available as share from Central Sector .
+Tamil Nadu sources a significant proportion of its power needs from renewable sources with wind power installed capacity at over 3600 MW or over 40% of the maximum peak demand .
+Tamil Nadu ranks first nationwide in diesel-based thermal electricity generation with a national market share of over 34% .
+55% of all wind-generated electricity in India is created by windmills in Tamil Nadu .
+Renowned Danish wind power company NEG Micon has established its manufacturing unit in Chennai .
+The Dravidian movement , which championed the causes of educating tamils and eradicating superstitions , began in Tamil Nadu .
+The movement was committed to social justice which led to the expansion of reservations for the deprived communities .
+Tamil Nadu now has 69% reservation in educational institutions , the highest among all Indian states .
+The Mid-day Meal Scheme program in Tamil Nadu , initiated by Kamaraj , was expanded considerably during the rule of the AIADMK in 1983 .
+It feeds over a fifth of the state's population .
+Despite this , the state is among the 12 states in India that have alarming level of hunger according to the 2008 Global Hunger Index .
+Pongal , also called as Tamizhar Thirunaal or Makara Sankranti elsewhere in India , a four-day harvest festival is one of the most widely celebrated festivals throughout Tamil Nadu .
+The Tamil language saying Thai Pirandhal Vazhi Pirakkum — literally meaning , the birth of the month of Thai will pave way for new opportunities — is often quoted with reference to this festival .
+The first day , Bhogi Pongal , is celebrated by throwing away and destroying old clothes and materials by setting them on fire to mark the end of the old and emergence of the new .
+The second day , Surya Pongal , is the main day which falls on the first day of the tenth Tamil month Thai .
+The third day , Maattu Pongal , is meant to offer thanks to the cattle , as they provide milk and are used to plough the lands .
+Jallikattu , a bull taming contest , marks the main event of this day .
+During this final day , Kaanum Pongal — the word " kaanum " , means ' to view ' in Tamil .
+The first month in the Tamil calendar is Chitterai and the first day of this month in mid-April is celebrated as Tamil New Year .
+Thiruvalluvar Calendar is 31 years ahead of Gregorian Calendar , that is 2000 CE in Gregorian calendar is represented as 2031 in Thiruvalluvar Calendar .
+Aadi Perukku is celebrated on the 18th day of the Tamil month Aadi , which celebrates the rising of the water level in the river Cauvery .
+Apart from these major festivals , in every village and town of Tamil Nadu , the inhabitants celebrate festivals for the local gods once a year and the time varies from place to place .
+Most of these festivals are related to the goddess Maariyamman , the mother goddess of rain .
+Other major Hindu festivals including Deepavali , Ayudha Poojai , Saraswathi Poojai , Krishna Jayanthi and Vinayaka Chathurthi are also celebrated .
+Ayya Vaikunda Avataram , is celebrated predominantly in the southern districts .
+In addition , Christmas , Eid ul-Fitr , Easter and Bakrid are celebrated by Christians and Muslims in the state
+The Kings of ancient Thamizhagam created sangams for Iyal Isai Nadagam .
+Music played a major role in sangams .
+Music in Tamil Nadu had different forms .
+In villages where farming was the primary occupation , women who worked in the fields used to sing kulavai songs .
+Odhuvars , Sthanikars or Kattalaiyars offer short musical programmes in the temples by singing the devotional Thevaram songs .
+In sharp contrast with the restrained and intellectual nature of Carnatic music , Tamil folk music tends to be much more exuberant .
+Popular forms of Tamil folk music include the Villuppāṭṭu , a form of music performed with a bow , and the Nāṭṭuppur̲appāṭṭu , ballads that convey folklore and folk history .
+Some of the leading Tamil folk artists in the early 21st century are Pushpuvanam Kuppuswamy , Dr. Vijayalakshmi Navaneethakrishnan , Chinnaponnu , Paravai muniammal etc .
+Carnatic music is the classical music form of Southern India .
+This is one of the world's oldest & richest musical traditions .
+The Trinity of Carnatic music Tyagaraja , Muthuswami Dikshitar and Syama Sastri were from Tamil Nadu .
+Thyagarajar Aaradhanai takes place every year in the month of Marghazhi in Thiruvaiyaru all carnatic musicians render their obesiance to Saint Thyagarajar by singing his compositions .
+The composers belonging to the Tamil Trinity , namely Muthu Thandavar , Arunachala Kavi and Marimutthu Pillai composed hundreds of devotional songs in Tamil and helped in the evolution of Carnatic music .
+Today , Tamil Nadu has hundreds of notable carnatic singers and instrumentalists who spread this music all over the world .
+Chennai hosts a large cultural event , the annual Madras Music Season during December–January , which includes performances by hundreds of artists all over the city .
+In terms of modern cine-music , Ilaiyaraaja was a prominent composer of film music in Tamil cinema during the late 1970s and 1980s .
+His work highlighted Tamil folk lyricism and introduced broader Western musical sensibilities to the South Indian musical mainstream .
+Tamil Nadu is also the home of the double Oscar Winner A.R .
+Rahman who has composed film music in Tamil , Telugu , Hindi films , English and Chinese films , was once referred to by Time magazine as " The Mozart of Madras " .
+Tamils have a large number of folk dances .
+These are performed for every possible occasion , to celebrate the arrival of seasons , birth of a child , weddings and festivals .
+Tamil dance is closely intertwined with the Tamil theatrical tradition .
+The most celebrated of these is karakattam .
+In its religious form , the dance is performed in front of an image of the goddess Mariamman .
+The dancer bears on his or her head a brass pot filled with uncooked rice , decorated with flowers and surrounded by a bamboo frame , and tumbles and leaps to the rhythm of a song without spilling a grain .
+Karakattam is usually performed to a special type of song known as temmanguppāṭṭu or thevar pāṭṭu , a folk song in the mode of a lover speaking to his beloved , to the accompaniment of a nadaswaram and melam .
+Other Tamil folk dances include mayilāṭṭam , where the dancers tie a string of peacock feathers around their waist ; ōyilāttam , danced in a circle while waving small pieces of cloth of various colours ; poikkal kuthiraiyaaṭṭam , where the dancers use dummy horses ; manattam , where the dancers imitate the graceful leaping of deer ; paraiyāṭṭam , a dance to the sound of rhythmical drumbeats , and thīppandāṭṭam , a dance involving playing with burning wooden torches .
+Bharatanatyam is a classical dance form originating from Tamil Nadu.In ancient times , it was performed in Hindu temples by Devadasis .
+In this form , it as also been called sadir or chinna melam .
+Many of the ancient sculptures in Hindu temples are based on Bharata Natyam dance postures .
+Bharatanatyam is a traditional dance-form known for its grace , purity , tenderness , and sculpturesque poses .
+It continues to be a popular dance style at present times and is practised by male and female dancers all over India .
+Terukkuttu or Kattaikkuttu is a traditional form of Tamil street theatre folk dance/drama .
+Tamil cuisine is basically South Indian cuisine , where rice and rice-derived dishes form the major portion of a diet .
+There are regional sub-varieties namely Chettinadu , Kongunadu , Madurai , Tirunelveli varieties etc .
+Traditionally , food is served on a banana leaf instead of a plate and eaten with the right hand .
+Rice is the staple food of Tamils and is typically eaten mixed with Sambhar (with or without Ghee) , vegetarian or non-vegetarian Kulambu , Rasam , Curd and Buttermilk .
+This is accompanied with various vegetarian and/or non-vegetarian dishes like Kootu , Aviyal , Poriyal , Appalam , Varuval , Peratal , Kothsu , varieties of Pickles and Chicken / Mutton / Fish fry .
+Breakfast and snack items include Dosai , Adai , Idly , Vadai , Pongal , Appam , Paniyaram , Puttu , Uppumavu , Santhakai , Idiyappam and Uthappam .
+These items are eaten along with Sambar , varieties of Chatni and Podi .
+Traditionally prepared Filter Coffee is unique in taste and popular all over the state .
+The Chettinad region is famous for its spicy non-vegetarian cuisine , while Ambur , Dindigal and Sankarankoil are known for their Biriyani .
+Sweet items that are native to Tamil Nadu and prepared at homes are Athirasam , Chakkarai Pongal and Kuli Paniyaram .
+Tirunelveli is known for its unique wheat Halwa and Palani is renowned for its Panchamirtham .
+In the recent past , North Indian , Western , Chinese and fast food culture are also witnessing a steady growth in Tamil Nadu .
+Tamil Nadu has historically been an agricultural state and is a leading producer of agricultural products in India .
+In 2008 , Tamil Nadu was India's fifth biggest producer of Rice .
+The total cultivated area in the State was 56.10 million hectares in 2007–08 .
+The Cauvery delta region of the composite Thanjavur district is known as the Rice Bowl of South India .
+In terms of production , Tamil Nadu accounts for 10% in fruits and 6% in vegetables , in India .
+Annual food grains production in the year 2007–08 was 100.35 lakh mt .
+Mango and Banana are the leading fruit crops in Tamil Nadu accounting for over 87% of the total fruit production .
+The main vegetables grown are tapioca , tomato , onion , brinjal and drumstick .
+Tamil Nadu is also a leading state in the production of flowers with the total production of horticultural crops standing at 99.47 Lakhs during 2003–04 .
+The main flowers grown in Tamil Nadu are Jasmine , Mullai , Chrysanthemum , Marigold and Rose .
+The state is the largest producer of bananas , flowers , tapioca , the second largest producer of mango , natural rubber , coconut , groundnut and the third largest producer of coffee , sapota , Tea and Sugarcane .
+Tamil Nadu's sugarcane yield per hectare is the highest in India .
+The state has 17,000 hectares of land under oil palm cultivation , the second highest in India .
+Tamil Nadu is the home to Dr M.S. Swaminathan , known as the " father of the Green Revolution " in India .
+Tamil Nadu Agricultural University with its seven colleges and thirty two research stations spread over the entire state contributes to evolving new crop varieties and technologies and disseminating through various extension agencies .
+Among states in India , Tamil Nadu is one of the leaders in livestock , poultry and fisheries production .
+Tamil Nadu had the second largest number of poultry amongst all the states and accounted for 17.7% of the total poultry population in India .
+In 2003–2004 , Tamil Nadu had produced 37,836 lakhs of eggs , which was the second highest in India representing 9.37% of the total egg production in the country .
+With the third longest coastline in India , Tamil Nadu represented 27.54% of the total value of fish and fishery products exported by India in 2006 .
+Textile mills and engineering industries are present around the city of Coimbatore .
+It is home to textile , automotive spare parts and motor pump manufacturing units .
+Cities of Tirupur and Erode are the country's largest exporters of knitwear .
+They are well known for textile manufacturing industries and exports to such extent that the districts of Coimbatore , Tirupur and Erode are referred to as Textile Valley of India .
+Tamil Nadu is one of the highly industrialised states in India and over 11.2% of the S&P CNX 500 conglomerates have corporate offices there .
+Many heavy engineering and manufacturing companies are located in and around the suburbs of Chennai and Tiruchirappalli .
+Rabindranath Tagore was a Bengali polymath who reshaped Bengali literature and music .
+Author of Gitanjali and its profoundly sensitive , fresh and beautiful verse , he was the first non-European Nobel laureate .
+His poetry in translation was viewed as spiritual , and this together with his mesmerizing persona gave him a prophet-like aura in the West .
+His elegant prose and magical poetry remain largely unknown outside Bengal .
+A Pirali Brahmin from Kolkata , Tagore had been writing poetry since he was eight years old .
+At age 16 , he published his first substantial poetry under the pseudonym Bhanushingho and wrote his first short stories and dramas in 1877 .
+Tagore achieved further note when he denounced the British Raj and supported Indian independence .
+His efforts endure in his vast canon and in the institution he founded , Visva-Bharati University .
+Tagore modernised Bengali art by spurning rigid classical forms .
+His novels , stories , songs , dance-dramas , and essays spoke to political and personal topics .
+Gitanjali , Gora , and Ghare-Baire are his best known works , and his verse , short stories , and novels were acclaimed for their lyricism , colloquialism , naturalism , and contemplation .
+Tagore penned two national anthems: India's Jana Gana Mana and Bangladesh's Amar Shonar Bangla .
+The youngest of 13 surviving children , Tagore was born in the Jorasanko mansion in Kolkata of parents Debendranath Tagore and Sarada Devi .
+Tagore family patriarchs were the Brahmo founding fathers of the Adi Dharm faith .
+He was mostly raised by servants , as his mother had died in his early childhood ; his father travelled extensively .
+Tagore largely declined classroom schooling , preferring to roam the mansion or nearby idylls: Bolpur , Panihati , and others .
+Upon his upanayan initiation at age eleven , Tagore left Calcutta on 14 February 1873 to tour India with his father for several months .
+They visited his father's Santiniketan estate and stopped in Amritsar before reaching the Himalayan hill station of Dalhousie .
+There , " Rabi " read biographies and was home-educated in history , astronomy , modern science , and Sanskrit , and examined the poetry of Kālidāsa .
+He completed major works in 1877 , one long poem of the Maithili style pioneered by Vidyapati .
+Published pseudonymously , experts accepted them as the lost works of Bhānusiṃha , a newly discovered 17th-century Vaiṣṇava poet .
+He wrote the Bengali language's first short story in 1877 .
+A prospective barrister , Tagore enrolled at a public school in Brighton , East Sussex , England in 1878 .
+He first stayed for some months at a house that the Tagore family owned near Brighton and Hove , in Medina Villas ; in 1877 , his nephew and niece—Suren and Indira , the children of Tagore's brother Satyendranath—were sent together with their mother to live with him .
+He read law at University College London , but left school to explore Shakespeare and more:Religio Medici , Coriolanus , and Antony and Cleopatra ; he returned degreeless to Bengal in 1880 .
+In life and art , Tagore reconciled English strictures and his Hindu background by picking the best from each .
+On 9 December 1883 he married Mrinalini Devi ; they had five children , two of whom died before reaching adulthood .
+In 1890 , Tagore began managing his family's vast estates in Shilaidaha , a region now in Bangladesh ; he was joined by his wife and children in 1898 .
+In 1890 , Tagore released his Manasi poems , among his best-known work .
+As Zamindar Babu , Tagore criss-crossed the holdings in his family's luxurious barge , the Padma , to collect rents—mostly token—and bless villagers , who held feasts in his honour .
+During this period , he wrote more than half the stories of the three-volume , 84-story Galpaguchchha .
+Ironic and grave , they savoured Bengali rural life .
+In 1901 , Tagore left Shilaidaha and moved to Santiniketan to found an ashram which grew to include a marble floored prayer hall , an experimental school , groves of trees , gardens , and a library .
+There , Tagore's wife and two of his children died .
+His father died on 19th January 1905 .
+He received monthly payments as part of his inheritance and additional income from the Maharaja of Tripura , sales of his family's jewellery , his seaside bungalow in Puri , and mediocre royalties from his works .
+By now , his work was gaining him a large following among Bengali and foreign readers alike , and he published such works as Naivedya and Kheya while translating his poems into free verse .
+On 14 November 1913 , Tagore learned that he had won the 1913 Nobel Prize in Literature , becoming the first Asian Nobel laureate .
+The Swedish Academy appreciated the idealistic and for Western readers , accessible nature of a small body of his translated material .
+In 1915 , Tagore was knighted by the British Crown .
+He renounced it after the 1919 Jallianwala Bagh massacre .
+In 1921 , Tagore and agricultural economist Leonard Elmhirst set up the Institute for Rural Reconstruction , later renamed Shriniketan .
+Through it , Tagore bypassed Gandhi's symbolic Swaraj protests , which he despised .
+He sought aid from donors , officials , and scholars worldwide to free villages from the shackles of helplessness and ignorance by vitalising knowledge .
+In the early 1930s , he targeted India's abnormal caste consciousness and untouchability .
+Lecturing against these , he penned untouchable heroes for his poems and dramas and campaigned successfully to open Guruvayoor Temple to Dalits .
+An old bearded man garbed in a dark mantle is reading from a slim book perched in his hands .
+He is sitting at a dark-toned desk cleared of everything but a neat stack of papers at left ; in the background is a light-coloured curtain .
+Tagore's international travels also sharpened his opinion that human divisions were shallow .
+During a May 1932 visit to a Bedouin encampment in the Iraqi desert , the tribal chief told him that our prophet has said that a true Muslim is he by whose words and deeds not the least of his brother men may ever come to any harm .
+He upbraided Gandhi for declaring that a massive 15 January 1934 earthquake in Bihar , leaving thousands dead , was divine retribution brought on by the oppression of Dalits .
+He mourned the endemic poverty of Calcutta and the accelerating socioeconomic decline of Bengal , which he detailed in an unrhymed 100-line poem whose technique of searing double-vision would foreshadow Satyajit Ray's film Apur Sansar .
+Fifteen new volumes of Tagore writings appeared , among them the prose-poems works Punashcha , Shes Saptak , and Patraput .
+Experimentation continued as he developed prose-songs and dance-dramas , including Chitrangada , Shyama , and Chandalika , and wrote the novels Dui Bon , Malancha , and Char Adhyay .
+Tagore took an interest in science in his last years , writing Visva-Parichay in 1937 .
+His exploration of biology , physics , and astronomy impacted his poetry , which often contained extensive naturalism that underscored his respect for scientific laws .
+He also wove the process of science , including narratives of scientists , into many stories contained in such volumes as Se , Tin Sangi , and Galpasalpa .
+His last five years were marked by chronic pain and two long periods of illness .
+These began when Tagore lost consciousness in late 1937 ; he remained comatose and near death for an extended period .
+This was followed three years later , in late 1940 , by a similar spell , from which he never recovered .
+The poetry Tagore wrote in these years is among his finest , and is distinctive for its preoccupation with death .
+After extended suffering , Tagore died on 7 August 1941 in an upstairs room of the Jorasanko mansion in which he was raised , aged 80 years .
+His death anniversary is mourned across the Bengali-speaking world .
+Tagore dictated his last poem to Sen , who wrote it down .
+Sen later donated the resulting draft to a museum in Kolkata .
+A moustached man in a lounge suit and necktie sits next to a white-haired , bearded man dressed in robes .
+Both look toward the camera .
+In 1912 , he took a sheaf of his translated works to England , where they impressed missionary and Gandhi protégé Charles F. Andrews , Irish poet William Butler Yeats , Ezra Pound , Robert Bridges , Ernest Rhys , Thomas Sturge Moore , and others .
+Indeed , Yeats wrote the preface to the English translation of Gitanjali , while Andrews joined Tagore at Santiniketan .
+On 10 November 1912 , Tagore began touring the United States and the United Kingdom , staying in Butterton , Staffordshire with Andrews's clergymen friends .
+From 3 May 1916 until April 1917 , Tagore went on lecturing circuits in Japan and the United States and denounced nationalism .
+His essay Nationalism in India " was scorned and praised , this latter by pacifists , including Romain Rolland .
+Shortly after returning to India , the 63-year-old Tagore accepted the Peruvian government's invitation to visit .
+He travelled to Mexico .
+Each government pledged US$100,000 to the school at Shantiniketan to commemorate his visits .
+A week after his 6 November 1924 arrival in Buenos Aires , an ill Tagore moved into the Villa Miralrío at the behest of Victoria Ocampo .
+He left for India in January 1925 .
+On 30 May 1926 , Tagore reached Naples , Italy and he met Mussolini in Rome the next day .
+Their warm rapport ended when Tagore criticised Il Duce's political touch .
+There is such a massive vigour in that head that it reminds one of Michael Angelo’s chisel .
+On 14 July 1927 , Tagore and two companions began a four-month tour of Southeast Asia , visiting Bali , Java , Kuala Lumpur , Malacca , Penang , Siam , and Singapore .
+Tagore's travelogues from the tour were collected into the work " Jatri " .
+In early 1930 he left Bengal for nearly a year-long tour of Europe and the United States .
+Once he returned to the UK , while his paintings were being exhibited in Paris and London , he stayed at a Quaker settlement in Birmingham .
+There he wrote his Oxford Hibbert Lectures and spoke at London's annual Quaker gathering .
+He visited Aga Khan III , stayed at Dartington Hall , and toured Denmark , Switzerland , and Germany from June to mid-September 1930 , then the Soviet Union .
+Lastly , in April 1932 , Tagore—who was acquainted with the legends and works of the Persian mystic Hafez—was hosted by Reza Shah Pahlavi of Iran .
+The well-heeled Tagore interacted with many notables: Henri Bergson , Albert Einstein , Robert Frost , Thomas Mann , George Bernard Shaw , H.G .
+Wells and Romain Rolland .
+Tagore's last travels abroad , including visits to Persia and Iraq (in 1932) and Sri Lanka (in 1933) , only sharpened his opinions regarding human divisions and nationalism .
+Tagore's Bengali-language initials are worked into this " Ro-Tho " wooden seal , which bears close stylistic similarity to designs used in traditional Haida carvings .
+Tagore often embellished his manuscripts with such art .
+Though known mostly for his poetry , Tagore also wrote novels , essays , short stories , travelogues , dramas , and thousands of songs .
+Of Tagore's prose , his short stories are perhaps most highly regarded ; indeed , he is credited with originating the Bengali-language version of the genre .
+His works are frequently noted for their rhythmic , optimistic , and lyrical nature .
+Such stories mostly borrow from deceptively simple subject matter: common people .
+Tagore's non-fiction grappled with Indian history , linguistics , and spirituality .
+Aside from autobiographical works , his travelogues , essays , and lectures were compiled into several volumes , including Europe Jatrir Patro and Manusher Dhormo .
+Tagore wrote eight novels and four novellas , among them Chaturanga , Shesher Kobita , Char Odhay , and Noukadubi .
+Ghare Baire through the lens of the idealistic zamindar protagonist Nikhil excoriates rising Indian nationalism , terrorism , and religious zeal in the Swadeshi movement ; a frank expression of Tagore's conflicted sentiments , it emerged out of a 1914 bout of depression .
+The novel ends in Hindu-Muslim violence and Nikhil's wounding .
+Gora raises controversial questions regarding the Indian identity .
+As with Ghare Baire , matters of self-identity , personal freedom , and religion are developed in the context of a family story and love triangle .
+In it , Tagore demonstrates his feminist leanings , using pathos to depict the plight and ultimate demise of Bengali women trapped by pregnancy , duty , and family honour ; simultaneously , he treats the decline of Bengal's landed oligarchy .
+The story revolves around the underlying rivalry between two families—the Chatterjees , aristocrats now on the decline and the Ghosals , representing new money and arrogance .
+Kumudini , Biprodas ' sister , is caught between the two as she is married off to Madhusudan .
+She was brought up in a sheltered home where she had followed the traditional way of life and observed all the religious rituals like all the other womenfolk in the family .
+It also contains elements of satire and postmodernism ; stock characters gleefully attack the reputation of an old , outmoded , oppressively renowned poet who , incidentally , goes by the name of Rabindranath Tagore .
+Though his novels remain among the least-appreciated of his works , they have been given renewed attention via film adaptations by Satyajit Ray and others: Chokher Bali and Ghare Baireare exemplary .
+In the first , Tagore elaborately records early 20th century Bengali society , through his central character , the rebellious widow , who wants to live a life of her own .
+In writing this novel he exposes the custom of perpetual mourning on the part of widows , who were not allowed to remarry and were condemned to a life of seclusion and loneliness .
+It is a melancholy , stirring tale of the deceit and sorrow that arise from dissatisfaction and sorrow .

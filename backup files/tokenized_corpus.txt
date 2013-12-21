@@ -48,7 +48,7 @@ Then in 1672 Gottfried Wilhelm Leibniz invented the Stepped Reckoner which he co
 None of the early computational devices were really computers in the modern sense , and it took considerable advancement in mathematics and theory before the first modern computers could be designed .
 In the 7th century , Indian mathematician Brahmagupta gave the first explanation of the Hindu-Arabic numeral system and the use of zero as both a placeholder and a decimal digit .
 Approximately around the year 825 , Persian mathematician Al-Khwarizmi wrote a book , On the Calculation with Hindu Numerals , that was principally responsible for the diffusion of the Indian system of numeration in the Middle East and then Europe .
-Around the 12th century , there was translation of this book written into Latin : Algoritmi de numero Indorum .
+Around the 12th century , there was translation of this book written into Latin: Algoritmi de numero Indorum .
 These books presented newer concepts to perform a series of steps in order to accomplish a task such as the systematic application of arithmetic to algebra .
 By derivation from his name , we have the term algorithm .
 Around the 3rd century BC , Indian mathematician Pingala discovered the binary numeral system .
@@ -398,11 +398,11 @@ His efforts endure in his vast canon and in the institution he founded , Visva-B
 Tagore modernised Bengali art by spurning rigid classical forms .
 His novels , stories , songs , dance-dramas , and essays spoke to political and personal topics .
 Gitanjali , Gora , and Ghare-Baire are his best known works , and his verse , short stories , and novels were acclaimed for their lyricism , colloquialism , naturalism , and contemplation .
-Tagore penned two national anthems : India's Jana Gana Mana and Bangladesh's Amar Shonar Bangla .
+Tagore penned two national anthems: India's Jana Gana Mana and Bangladesh's Amar Shonar Bangla .
 The youngest of 13 surviving children , Tagore was born in the Jorasanko mansion in Kolkata of parents Debendranath Tagore and Sarada Devi .
 Tagore family patriarchs were the Brahmo founding fathers of the Adi Dharm faith .
 He was mostly raised by servants , as his mother had died in his early childhood ; his father travelled extensively .
-Tagore largely declined classroom schooling , preferring to roam the mansion or nearby idylls : Bolpur , Panihati , and others .
+Tagore largely declined classroom schooling , preferring to roam the mansion or nearby idylls: Bolpur , Panihati , and others .
 Upon his upanayan initiation at age eleven , Tagore left Calcutta on 14 February 1873 to tour India with his father for several months .
 They visited his father's Santiniketan estate and stopped in Amritsar before reaching the Himalayan hill station of Dalhousie .
 There , " Rabi " read biographies and was home-educated in history , astronomy , modern science , and Sanskrit , and examined the poetry of Kālidāsa .
@@ -474,7 +474,7 @@ Once he returned to the UK , while his paintings were being exhibited in Paris a
 There he wrote his Oxford Hibbert Lectures and spoke at London's annual Quaker gathering .
 He visited Aga Khan III , stayed at Dartington Hall , and toured Denmark , Switzerland , and Germany from June to mid-September 1930 , then the Soviet Union .
 Lastly , in April 1932 , Tagore—who was acquainted with the legends and works of the Persian mystic Hafez—was hosted by Reza Shah Pahlavi of Iran .
-The well-heeled Tagore interacted with many notables : Henri Bergson , Albert Einstein , Robert Frost , Thomas Mann , George Bernard Shaw , H.G .
+The well-heeled Tagore interacted with many notables: Henri Bergson , Albert Einstein , Robert Frost , Thomas Mann , George Bernard Shaw , H.G .
 Wells and Romain Rolland .
 Tagore's last travels abroad , including visits to Persia and Iraq ( in 1932 ) and Sri Lanka ( in 1933) , only sharpened his opinions regarding human divisions and nationalism .
 Tagore's Bengali-language initials are worked into this " Ro-Tho " wooden seal , which bears close stylistic similarity to designs used in traditional Haida carvings .
@@ -482,7 +482,7 @@ Tagore often embellished his manuscripts with such art .
 Though known mostly for his poetry , Tagore also wrote novels , essays , short stories , travelogues , dramas , and thousands of songs .
 Of Tagore's prose , his short stories are perhaps most highly regarded ; indeed , he is credited with originating the Bengali-language version of the genre .
 His works are frequently noted for their rhythmic , optimistic , and lyrical nature .
-Such stories mostly borrow from deceptively simple subject matter : common people .
+Such stories mostly borrow from deceptively simple subject matter: common people .
 Tagore's non-fiction grappled with Indian history , linguistics , and spirituality .
 Aside from autobiographical works , his travelogues , essays , and lectures were compiled into several volumes , including Europe Jatrir Patro and Manusher Dhormo .
 Tagore wrote eight novels and four novellas , among them Chaturanga , Shesher Kobita , Char Odhay , and Noukadubi .
@@ -495,7 +495,7 @@ The story revolves around the underlying rivalry between two families—the Chat
 Kumudini , Biprodas ' sister , is caught between the two as she is married off to Madhusudan .
 She was brought up in a sheltered home where she had followed the traditional way of life and observed all the religious rituals like all the other womenfolk in the family .
 It also contains elements of satire and postmodernism ; stock characters gleefully attack the reputation of an old , outmoded , oppressively renowned poet who , incidentally , goes by the name of Rabindranath Tagore .
-Though his novels remain among the least-appreciated of his works , they have been given renewed attention via film adaptations by Satyajit Ray and others : Chokher Bali and Ghare Baireare exemplary .
+Though his novels remain among the least-appreciated of his works , they have been given renewed attention via film adaptations by Satyajit Ray and others: Chokher Bali and Ghare Baireare exemplary .
 In the first , Tagore elaborately records early 20th century Bengali society , through his central character , the rebellious widow , who wants to live a life of her own .
 In writing this novel he exposes the custom of perpetual mourning on the part of widows , who were not allowed to remarry and were condemned to a life of seclusion and loneliness .
 It is a melancholy , stirring tale of the deceit and sorrow that arise from dissatisfaction and sorrow .

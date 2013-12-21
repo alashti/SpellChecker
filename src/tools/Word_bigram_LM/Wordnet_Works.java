@@ -4,6 +4,14 @@
  */
 package tools.Word_bigram_LM;
 
+//import edu.mit.jwi.Dictionary;
+//import edu.mit.jwi.IDictionary;
+//import edu.mit.jwi.item.IIndexWord;
+//import edu.mit.jwi.item.ISynset;
+//import edu.mit.jwi.item.IWord;
+//import edu.mit.jwi.item.IWordID;
+//import edu.mit.jwi.item.POS;
+//import edu.mit.jwi.morph.WordnetStemmer;
 import edu.mit.jwi.Dictionary;
 import edu.mit.jwi.IDictionary;
 import edu.mit.jwi.item.IIndexWord;

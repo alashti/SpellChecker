@@ -4,14 +4,10 @@
  */
 package tools.Word_bigram_LM;
 
-import edu.stanford.nlp.process.CoreLabelTokenFactory;
-import edu.stanford.nlp.process.PTBTokenizer;
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.util.Enumeration;
@@ -51,7 +47,7 @@ public class W_master {
 
         while ((line = bfr.readLine()) != null) {
             L_Split = line.split(" ");
-            L_Split = mast.Tokenize(L_Split);
+            L_Split = mast.Tokenize_eng(L_Split);
             //line = edu.stanford.nlp.util.StringUtils.join(L_Split);
 //            bfw.append(edu.stanford.nlp.util.StringUtils.join(L_Split));
 //            bfw.newLine();
@@ -106,8 +102,8 @@ public class W_master {
         }
     }
 
-    public String[] Tokenize(String[] L_Split) {
-        char quote = '\'', dot = '.', DQ = '\"', And = ',', Semi_colon = ';';
+    public String[] Tokenize_eng(String[] L_Split) {
+        char quote = '\'', dot = '.', DQ = '\"', And = ',', Semi_colon = ';', open_paranthesis = '(', close_paranthesis = ')', colon = ':';
         int L_len = L_Split.length;
         for (int i = 0; i < L_len; i++) {
             String str = L_Split[i];
@@ -152,6 +148,18 @@ public class W_master {
             if (str.indexOf(Semi_colon) == S_len - 1) {// && str.charAt(S_len - 2) != ' '){//agar space ghabl az har kodam az in alaem vojod dasht dige nabayad
                 //space ezafe konim
                 str = str.substring(0, S_len - 1) + " " + Semi_colon;
+                S_len = str.length();
+            }
+            if(str.indexOf(open_paranthesis) == 0){
+                str = open_paranthesis + " " + str.substring(1, S_len);
+                S_len = str.length();
+            }
+            if(str.indexOf(close_paranthesis) == S_len - 1){
+                str = str.substring(0, S_len - 1) + " " + close_paranthesis;
+                S_len = str.length();
+            }
+            if(str.indexOf(colon) == S_len - 1){
+                str = str.substring(0, S_len - 1) + " " + colon;
                 S_len = str.length();
             }
             L_Split[i] = str;//kalameye pardazesh shode ra jaygozine kalameye ghabli mikonim

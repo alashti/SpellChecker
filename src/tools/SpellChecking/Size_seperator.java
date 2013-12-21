@@ -14,15 +14,24 @@ import java.util.Hashtable;
  */
 public class Size_seperator {
     int len;
-    Hashtable pos = new Hashtable();
+//    Hashtable pos = new Hashtable();
+    Hashtable character = new Hashtable();
 
-    public Hashtable getPos() {
-        return pos;
+    public Hashtable getCharacter() {
+        return character;
     }
 
-    public void setPos(Hashtable pos) {
-        this.pos = pos;
+    public void setCharacter(Hashtable character) {
+        this.character = character;
     }
+
+//    public Hashtable getPos() {
+//        return pos;
+//    }
+//
+//    public void setPos(Hashtable pos) {
+//        this.pos = pos;
+//    }
 
     public int getLen() {
         return len;
